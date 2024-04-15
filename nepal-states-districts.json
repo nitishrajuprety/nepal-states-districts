@@ -1,0 +1,92 @@
+{
+    "Koshi Province": [
+        "Dhankuta",
+        "Ilam",
+        "Jhapa",
+        "Khotang",
+        "Morang",
+        "Okhaldhunga",
+        "Panchthar",
+        "Sankhuwasabha",
+        "Solukhumbu",
+        "Sunsari",
+        "Taplejung",
+        "Tehrathum",
+        "Udayapur"
+    ],
+    "Madesh Province": [
+        "Parsa",
+        "Bara",
+        "Rautahat",
+        "Sarlahi",
+        "Dhanusha",
+        "Siraha",
+        "Mahottari",
+        "Saptari"
+    ],
+    "Bagmati Province": [
+        "Sindhuli",
+        "Ramechhap",
+        "Dolakha",
+        "Bhaktapur",
+        "Dhading",
+        "Kathmandu",
+        "Kavrepalanchok",
+        "Lalitpur",
+        "Nuwakot",
+        "Rasuwa",
+        "Sindhupalchok",
+        "Chitwan",
+        "Makwanpur"
+    ],
+    "Gandaki Province": [
+        "Baglung",
+        "Gorkha",
+        "Kaski",
+        "Lamjung",
+        "Manang",
+        "Mustang",
+        "Myagdi",
+        "Nawalparasi (East of Bardaghat Susta)",
+        "Parbat",
+        "Syangja",
+        "Tanahun"
+    ],
+    "Lumbini Province": [
+        "Kapilvastu",
+        "Nawalparasi (West of Bardaghat Susta)",
+        "Rupandehi",
+        "Arghakhanchi",
+        "Gulmi",
+        "Palpa",
+        "Dang",
+        "Pyuthan",
+        "Rolpa",
+        "Eastern Rukum",
+        "Banke",
+        "Bardiya"
+    ],
+    "Karnali Province": [
+        "Western Rukum",
+        "Salyan",
+        "Dolpa",
+        "Humla",
+        "Jumla",
+        "Kalikot",
+        "Mugu",
+        "Surkhet",
+        "Dailekh",
+        "Jajarkot"
+    ],
+    "Sudurpashchim Province": [
+        "Kailali",
+        "Achham",
+        "Doti",
+        "Bajhang",
+        "Bajura",
+        "Kanchanpur",
+        "Dadeldhura",
+        "Baitadi",
+        "Darchula"
+    ]
+}
